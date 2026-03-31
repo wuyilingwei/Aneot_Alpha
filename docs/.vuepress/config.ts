@@ -19,7 +19,7 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#6c67ae' }], // 主题色
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
     ['link', { rel: 'mask-icon', href: '/eod.svg', color: '#FFFFFF' }],
